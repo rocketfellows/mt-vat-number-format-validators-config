@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1682972874">
-  <project timestamp="1682972874">
+<coverage generated="1682973117">
+  <project timestamp="1682973117">
     <file name="/app/src/MTVatNumberFormatValidatorsConfig.php">
       <class name="rocketfellows\MTVatNumberFormatValidatorsConfig\MTVatNumberFormatValidatorsConfig" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
